@@ -1,1 +1,1 @@
-# Trabajo para el curso de REACT Informatorio 2022
+#  para el curso de REACT Informatorio 2022
