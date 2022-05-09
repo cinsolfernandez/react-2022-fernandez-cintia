@@ -1,1 +1,1 @@
-# react-2022-fernandez-cintia
+# Trabajo para el curso de REACT Informatorio 2022
